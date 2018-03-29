@@ -1,0 +1,1 @@
+document.write("This is our javaScript being written first before anything else");
