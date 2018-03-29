@@ -1,3 +1,9 @@
-document.write("This is our javaScript being written first before anything else");
+var lives=3;
 
-console.log("This is text that will be sent directly to the console to let us know that our program completed succesfully");
+var examples="I am a variable!";
+
+document.write(examples);
+
+examples="This is an another variable!";
+
+document.write(examples);
